@@ -1,0 +1,10 @@
+python-telegram-bot>=20.0
+openai-whisper
+supabase
+spotipy
+discogs-client
+google-api-python-client
+requests
+python-dotenv
+lxml
+pydantic
